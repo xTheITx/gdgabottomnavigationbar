@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Cuteness overload</string>
+
+    <string name="dogs">Dogs</string>
+    <string name="birds">Birds</string>
+    <string name="cats">Cats</string>
+</resources>
